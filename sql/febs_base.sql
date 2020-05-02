@@ -59,26 +59,26 @@ CREATE TABLE `t_eximport`  (
 -- ----------------------------
 -- Records of t_eximport
 -- ----------------------------
-INSERT INTO `t_eximport` VALUES ('字段1', 1, 'mrbird0@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 2, 'mrbird1@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 3, 'mrbird2@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 4, 'mrbird3@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 5, 'mrbird4@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 6, 'mrbird5@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 7, 'mrbird6@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 8, 'mrbird7@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 9, 'mrbird8@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 10, 'mrbird9@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 11, 'mrbird10@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 12, 'mrbird11@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 13, 'mrbird12@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 14, 'mrbird13@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 15, 'mrbird14@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 16, 'mrbird15@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 17, 'mrbird16@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 18, 'mrbird17@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 19, 'mrbird18@gmail.com', '2019-06-13 03:14:06');
-INSERT INTO `t_eximport` VALUES ('字段1', 20, 'mrbird19@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 1, 'mrcwm0@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 2, 'mrcwm1@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 3, 'mrcwm2@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 4, 'mrcwm3@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 5, 'mrcwm4@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 6, 'mrcwm5@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 7, 'mrcwm6@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 8, 'mrcwm7@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 9, 'mrcwm8@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 10, 'mrcwm9@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 11, 'mrcwm10@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 12, 'mrcwm11@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 13, 'mrcwm12@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 14, 'mrcwm13@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 15, 'mrcwm14@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 16, 'mrcwm15@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 17, 'mrcwm16@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 18, 'mrcwm17@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 19, 'mrcwm18@gmail.com', '2019-06-13 03:14:06');
+INSERT INTO `t_eximport` VALUES ('字段1', 20, 'mrcwm19@gmail.com', '2019-06-13 03:14:06');
 
 -- ----------------------------
 -- Table structure for t_generator_config
@@ -102,7 +102,7 @@ CREATE TABLE `t_generator_config`  (
 -- ----------------------------
 -- Records of t_generator_config
 -- ----------------------------
-INSERT INTO `t_generator_config` VALUES (1, 'MrBird', 'cc.mrbird.febs.gen', 'entity', 'mapper', 'mapper', 'service', 'service.impl', 'controller', '1', 't_');
+INSERT INTO `t_generator_config` VALUES (1, 'mrcwm', 'cc.mrcwm.febs.gen', 'entity', 'mapper', 'mapper', 'service', 'service.impl', 'controller', '1', 't_');
 
 -- ----------------------------
 -- Table structure for t_job
@@ -123,7 +123,7 @@ CREATE TABLE `t_job`  (
 -- ----------------------------
 -- Records of t_job
 -- ----------------------------
-INSERT INTO `t_job` VALUES (1, 'testTask', 'test', 'mrbird', '0/1 * * * * ?', '1', '有参任务调度测试~~', '2018-02-24 16:26:14');
+INSERT INTO `t_job` VALUES (1, 'testTask', 'test', 'mrcwm', '0/1 * * * * ?', '1', '有参任务调度测试~~', '2018-02-24 16:26:14');
 INSERT INTO `t_job` VALUES (2, 'testTask', 'test5', '', '0/10 * * * * ?', '1', '无参任务调度测试', '2018-02-24 17:06:23');
 INSERT INTO `t_job` VALUES (3, 'testTask', 'test1', 'hello world', '0/1 * * * * ?', '1', '有参任务调度测试,每隔一秒触发', '2018-02-26 09:28:26');
 INSERT INTO `t_job` VALUES (11, 'testTask', 'test2', NULL, '0/5 * * * * ?', '1', '测试异常', '2018-02-26 11:15:30');
@@ -217,17 +217,17 @@ CREATE TABLE `t_log`  (
 -- ----------------------------
 -- Records of t_log
 -- ----------------------------
-INSERT INTO `t_log` VALUES (1011, 'weiming', '新增角色', 356, 'cc.mrbird.febs.system.controller.RoleController.addRole()', ' role: \"Role(roleId=81, roleName=运维人员, remark=, createTime=Mon Jan 13 10:46:14 CST 2020, modifyTime=null, menuIds=3,11,12,13,160,161,17,18,19,101,134)\"', '172.16.53.79', '2020-01-13 10:46:14', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1012, 'weiming', '新增角色', 48, 'cc.mrbird.febs.system.controller.RoleController.addRole()', ' role: \"Role(roleId=82, roleName=测试人员, remark=参与测试工作, createTime=Mon Jan 13 10:59:12 CST 2020, modifyTime=null, menuIds=1)\"', '172.16.53.79', '2020-01-13 10:59:12', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1013, 'weiming', '新增角色', 301, 'cc.mrbird.febs.system.controller.RoleController.addRole()', ' role: \"Role(roleId=83, roleName=测试人员, remark=参与测试工作, createTime=Mon Jan 13 11:02:06 CST 2020, modifyTime=null, menuIds=101,137,115)\"', '172.16.53.79', '2020-01-13 11:02:06', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1014, 'weiming', '新增角色', 336, 'cc.mrbird.febs.system.controller.RoleController.addRole()', ' role: \"Role(roleId=84, roleName=运维人员, remark=部署，维护系统, createTime=Mon Jan 13 11:06:40 CST 2020, modifyTime=null, menuIds=1,2)\"', '172.16.53.79', '2020-01-13 11:06:40', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1015, 'weiming', '修改定时任务', 116, 'cc.mrbird.febs.job.controller.JobController.updateJob()', ' job: \"Job(jobId=3, beanName=testTask, methodName=test1, params=hello world, cronExpression=0/1 * * * * ?, status=1, remark=有参任务调度测试,每隔一秒触发, createTime=null, createTimeFrom=null, createTimeTo=null)\"', '172.16.53.79', '2020-01-17 10:56:33', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1016, 'weiming', '修改定时任务', 84, 'cc.mrbird.febs.job.controller.JobController.updateJob()', ' job: \"Job(jobId=2, beanName=testTask, methodName=test5, params=, cronExpression=0/10 * * * * ?, status=1, remark=无参任务调度测试, createTime=null, createTimeFrom=null, createTimeTo=null)\"', '172.16.53.79', '2020-01-17 10:56:45', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1017, 'weiming', '恢复定时任务', 67, 'cc.mrbird.febs.job.controller.JobController.resumeJob()', ' jobIds: \"3\"', '172.16.53.79', '2020-01-17 11:05:10', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1018, 'weiming', '暂停定时任务', 15, 'cc.mrbird.febs.job.controller.JobController.pauseJob()', ' jobIds: \"3\"', '172.16.53.79', '2020-01-17 11:06:31', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1019, 'weiming', '新增定时任务', 164858, 'cc.mrbird.febs.job.controller.JobController.addJob()', ' job: \"Job(jobId=12, beanName=myTask, methodName=myTest, params=hello, cronExpression=0/5 * * * * ?, status=1, remark=有参任务调度，每5秒执行一次, createTime=Fri Jan 17 14:00:24 CST 2020, createTimeFrom=null, createTimeTo=null)\"', '172.16.53.79', '2020-01-17 14:03:09', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1020, 'weiming', '删除定时任务', 17, 'cc.mrbird.febs.job.controller.JobController.deleteJob()', ' jobIds: \"15\"', '172.16.53.79', '2020-01-17 14:28:11', '内网IP|0|0|内网IP|内网IP');
-INSERT INTO `t_log` VALUES (1021, 'weiming', '恢复定时任务', 16, 'cc.mrbird.febs.job.controller.JobController.resumeJob()', ' jobIds: \"13\"', '172.16.53.79', '2020-01-17 14:36:54', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1011, 'weiming', '新增角色', 356, 'RoleController.addRole()', ' role: \"Role(roleId=81, roleName=运维人员, remark=, createTime=Mon Jan 13 10:46:14 CST 2020, modifyTime=null, menuIds=3,11,12,13,160,161,17,18,19,101,134)\"', '172.16.53.79', '2020-01-13 10:46:14', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1012, 'weiming', '新增角色', 48, 'RoleController.addRole()', ' role: \"Role(roleId=82, roleName=测试人员, remark=参与测试工作, createTime=Mon Jan 13 10:59:12 CST 2020, modifyTime=null, menuIds=1)\"', '172.16.53.79', '2020-01-13 10:59:12', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1013, 'weiming', '新增角色', 301, 'RoleController.addRole()', ' role: \"Role(roleId=83, roleName=测试人员, remark=参与测试工作, createTime=Mon Jan 13 11:02:06 CST 2020, modifyTime=null, menuIds=101,137,115)\"', '172.16.53.79', '2020-01-13 11:02:06', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1014, 'weiming', '新增角色', 336, 'RoleController.addRole()', ' role: \"Role(roleId=84, roleName=运维人员, remark=部署，维护系统, createTime=Mon Jan 13 11:06:40 CST 2020, modifyTime=null, menuIds=1,2)\"', '172.16.53.79', '2020-01-13 11:06:40', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1015, 'weiming', '修改定时任务', 116, 'JobController.updateJob()', ' job: \"Job(jobId=3, beanName=testTask, methodName=test1, params=hello world, cronExpression=0/1 * * * * ?, status=1, remark=有参任务调度测试,每隔一秒触发, createTime=null, createTimeFrom=null, createTimeTo=null)\"', '172.16.53.79', '2020-01-17 10:56:33', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1016, 'weiming', '修改定时任务', 84, 'JobController.updateJob()', ' job: \"Job(jobId=2, beanName=testTask, methodName=test5, params=, cronExpression=0/10 * * * * ?, status=1, remark=无参任务调度测试, createTime=null, createTimeFrom=null, createTimeTo=null)\"', '172.16.53.79', '2020-01-17 10:56:45', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1017, 'weiming', '恢复定时任务', 67, 'JobController.resumeJob()', ' jobIds: \"3\"', '172.16.53.79', '2020-01-17 11:05:10', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1018, 'weiming', '暂停定时任务', 15, 'JobController.pauseJob()', ' jobIds: \"3\"', '172.16.53.79', '2020-01-17 11:06:31', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1019, 'weiming', '新增定时任务', 164858, 'JobController.addJob()', ' job: \"Job(jobId=12, beanName=myTask, methodName=myTest, params=hello, cronExpression=0/5 * * * * ?, status=1, remark=有参任务调度，每5秒执行一次, createTime=Fri Jan 17 14:00:24 CST 2020, createTimeFrom=null, createTimeTo=null)\"', '172.16.53.79', '2020-01-17 14:03:09', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1020, 'weiming', '删除定时任务', 17, 'JobController.deleteJob()', ' jobIds: \"15\"', '172.16.53.79', '2020-01-17 14:28:11', '内网IP|0|0|内网IP|内网IP');
+INSERT INTO `t_log` VALUES (1021, 'weiming', '恢复定时任务', 16, 'JobController.resumeJob()', ' jobIds: \"13\"', '172.16.53.79', '2020-01-17 14:36:54', '内网IP|0|0|内网IP|内网IP');
 
 -- ----------------------------
 -- Table structure for t_login_log
@@ -577,7 +577,7 @@ CREATE TABLE `t_user`  (
 -- ----------------------------
 -- Records of t_user
 -- ----------------------------
-INSERT INTO `t_user` VALUES (1, 'MrBird', 'cb62ad1497597283961545d608f80241', 1, 'mrbird@qq.com', '17788888888', '1', '2019-06-14 20:39:22', '2019-12-04 16:47:11', '2019-12-04 16:48:10', '0', '1', 'black', 'cnrhVkzwxjPwAaCfPbdc.png', '我是帅比作者。');
+INSERT INTO `t_user` VALUES (1, 'mrcwm', 'cb62ad1497597283961545d608f80241', 1, 'mrcwm@qq.com', '17788888888', '1', '2019-06-14 20:39:22', '2019-12-04 16:47:11', '2019-12-04 16:48:10', '0', '1', 'black', 'cnrhVkzwxjPwAaCfPbdc.png', '我是帅比作者。');
 INSERT INTO `t_user` VALUES (2, 'Scott', '1d685729d113cfd03872f154939bee1c', 10, 'scott@gmail.com', '17722222222', '1', '2019-06-14 20:55:53', '2019-06-14 21:05:43', '2019-08-18 17:36:18', '0', '1', 'black', 'gaOngJwsRYRaVAuXXcmB.png', '我是scott。');
 INSERT INTO `t_user` VALUES (3, 'Reina', '1461afff857c02afbfb768aa3771503d', 4, 'Reina@hotmail.com', '17711111111', '0', '2019-06-14 21:07:38', '2019-06-14 21:09:06', '2019-06-14 21:08:26', '1', '1', 'black', '5997fedcc7bd4cffbd350b40d1b5b987.jpg', '由于公款私用，已被封禁。');
 INSERT INTO `t_user` VALUES (4, 'Micaela', '9f2daa2c7bed6870fcbb5b9a51d6300e', 10, 'Micaela@163.com', '17733333333', '1', '2019-06-14 21:10:13', '2019-06-14 21:11:26', '2019-06-14 21:10:37', '0', '0', 'white', '20180414165909.jpg', '我叫米克拉');

@@ -10,7 +10,7 @@ FEBS-Shiro是一款简单高效的后台权限管理系统，使用Spring Boot�
 
 ### 演示地址
 
-[https://shiro.mrbird.cn:8080](https://shiro.mrbird.cn:8080)
+[https://shiro.mrcwm.cn:8080](https://shiro.mrcwm.cn:8080)
 
 演示环境账号密码：
 
@@ -23,7 +23,7 @@ scott | 1234qwer | 注册账户，拥有查看，新增权限（新增用户除�
 
 账号 | 密码| 权限
 ---|---|---
-mrbird | 1234qwer |超级管理员，拥有所有增删改查权限
+mrcwm | 1234qwer |超级管理员，拥有所有增删改查权限
 scott | 1234qwer | 注册账户，拥有查看，新增权限（新增用户除外）和导出Excel权限
 micaela | 1234qwer |系统监测员，负责整个系统监控模块
 Jana   | 1234qwer  |跑批人员，负责任务调度跑批模块

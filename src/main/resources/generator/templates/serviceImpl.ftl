@@ -1,6 +1,6 @@
 package ${basePackage}.${serviceImplPackage};
 
-import cc.mrbird.febs.common.entity.QueryRequest;
+import QueryRequest;
 import ${basePackage}.${entityPackage}.${className};
 import ${basePackage}.${mapperPackage}.${className}Mapper;
 import ${basePackage}.${servicePackage}.I${className}Service;

@@ -18,7 +18,7 @@ spring:
     proxy-target-class: true
 
 mybatis-plus:
-  type-aliases-package: cc.mrbird.febs.*.entity
+  type-aliases-package: cc.mrcwm.febs.*.entity
   mapper-locations: classpath:mapper/*/*.xml
   configuration:
     jdbc-type-for-null: null

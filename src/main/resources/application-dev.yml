@@ -52,7 +52,7 @@ spring:
 #    timeout: 5000
 #
   redis:
-    host: 192.168.134.136
+    host: 192.168.134.138
     password: ''
     port: 6379
     timeout: 3600
